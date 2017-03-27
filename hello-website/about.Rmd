@@ -2,4 +2,6 @@
 title: "About This Website"
 ---
 
-More about this website.
+Open source has completely transformed life in the last 25 years, especially in the IoT era. I am interested in the entire IoT stack with special emphasis on sensors and data science. I have benefitted immensely from many collaborators and open source contributors. I hope to pay it forward through some of the widgets that I share on this site.
+
+I also have experience in business analytics, finance, and strategy. I believe there is a lack of interactive tools for scenario building and educational purposes. This site will also house simple tools in these areas.
